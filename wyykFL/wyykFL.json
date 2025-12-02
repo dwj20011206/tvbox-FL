@@ -10,39 +10,7 @@
 	    }],
 	
 	"sites": [
-  
-      {
-        "key": "csp_Live2Vod_2",
-        "name": "┃🍓网络电视┃",
-        "type": 3,
-        "api": "./lib/直播vod.js",
-        "jar": "./jar/candymuj.jar",
-        "searchable": 0,
-        "quickSearch": 0,
-        "filterable": 0,
-        "ext":"./lib/直播.json"
-    },   
-           {
-      "key":"*细胞网资源",
-      "name":"🔞细胞网资源",
-      "type":1,
-      "api":"https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://www.hongniujiexi.com/m3u8/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },    
-     {
-     "key":"csp_XBPQ_PWXXX视频",
-     "name":"🔞PWXXX视频",
-     "type":3,"api":"csp_XBPQ",  
-     "jar": "./jar/xyqxbpq.jar",     
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1,
-     "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","主页url":"https://pwxxx.pwxxx15.fun/pwxxx/","分类url":"https://pwxxx.pwxxx15.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html","分类":"国产大区$1#日韩大区$2#欧美大区$3#其它视频$4","类型":"国产精品$13#网曝吃瓜$6#自拍偷拍$7#传媒出品$8#网红主播$9#大神探花$10#抖阴视频$11#国产其它$12||日韩精品$14#日韩无码$15#日韩有码$16#中文字幕$20#萝莉少女$21#人妻熟妇$22#韩国主播$23#日韩其它$24||欧美精品$5#欧美无码$25#欧美另类$26#欧美其它$27||AI换脸$28#AV解说$29#三级伦理$30#成人动漫$31"
-     }
-     },      
+       
     {
 
       "key":"*白嫖资源",
@@ -105,5 +73,6 @@
     }
 ]
 }
+
 
 
