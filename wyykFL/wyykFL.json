@@ -44,153 +44,7 @@
      }
      },      
     {
-      "key": "XMVideo",
-      "name": "🔞熊猫视频",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,"jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-    },
-    {
-      "key": "七区_py",
-      "name": "🔞七区视频",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./py/七区.py",
-      "order_num": 5,
-      "ext": ""
-    },
-    	{
-			"key": "大奶子",
-			"name": "🔞大奶子资源",
-			"type": 1,
-			"api": "https://apidanaizi.com/api.php/provide/vod",
-			"searchable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1,
-             "categories": ["精品推荐","国产主播","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","A V 解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","A I 换脸","V R 视角","重口性癖","制服诱惑","丝袜美腿","中文字幕","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","欧美激情","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"
-      ]
-		},
-      {
-			"key": "py_DSYS",
-			"name": "🔞DSYS(T3)",
-			"type": 3,
-			"api": "./py/DSYS.py"
-		},  
-        	{
-			"key": "py_lav",
-			"name": "🔞lav(T3)",
-			"type": 3,
-			"api": "./py/lavAPP.py"
-		},
-	{
-			"key": "py_推特",
-			"name": "🔞推特(T3)",
-			"type": 3,
-			"api": "./py/推特APP.py"
-		},
-      	{
-			"key": "Zuise",
-			"name": "🔞最色AV",
-			"type": 3,
-			"api": "csp_Zuise",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "proxy"
-		},  
-        	{
-			"key": "lav",
-			"name": "🔞lav视频",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_lav.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "proxy"
-		},
-    {
-       "key":"csp_XYQHiker_鲨鱼AV",
-       "name":"🔞鲨鱼AV",
-       "type":3,
-        "api":"csp_XYQHiker",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":0,
-        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/鲨鱼av.json",
-        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
-      },     
-    {
-            "key": "🔞淫岛专场",
-            "name": "🔞淫岛专场",
-            "type": 3,
-            "api": "csp_XBPQ",            
-            "jar":"./jar/淫岛.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://epy.sxbd2.yachts/cn/home/web/",
-                "数组": "默认--cat\"&&thumb||首页--最新发布&&thumb",
-                "标题": "默认--title=\"&&\"||首页--title=\"&&\"",
-                "图片": "默认--data-original=\"&&\"||首页--data-src=\"&&\"",
-                "链接": "默认--href=\"&&\"||首页--href=\"&&\"",
-                "简介": "description\" content=\"&&\"",
-                "搜索模式": "1",
-                "搜索url": "https://epy.sxbd2.yachts/s/{wd}/page/{pg}.html",
-                "搜索数组": "image-container&&</header>",
-                "搜索标题": "title=\"&&\"",
-                "搜索图片": "data-src=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://epy.sxbd2.yachts/vodtype/{cateId}-{catePg}.html;;z",
-                "分类二次截取": "hulian\">&&</div>",
-                "分类数组": "<a&&/a>",
-                "分类标题": ">&&<",
-                "分类ID": "/vodtype/&&.html"
-            }
-        }, 
-   {
-   "key":"csp_XBPQ_高清SEX国产",
-   "name":"🔞高清SEX国产",
-   "type":3,
-   "api":"csp_XBPQ",    
-   "jar": "./jar/xyqxbpq.jar",     
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext":{"请求头": "User-Agent$MOBILE_UA","链接":"href=\"&&\"[替换:voddetail>>v#.html]","编码": "UTF-8","直接播放":"1","搜索url":"https://day-egg-milk.sexav-102.com/s/?wd={wd}","主页url":"https://day-egg-milk.sexav-102.com/ssss","分类url":"https://day-egg-milk.sexav-102.com/t/{cateId}-{catePg}/","分类":"国产视频$163#国产传媒$227#日韩仓库$1#国产剧情$114#网曝事件$5#女优专区$89#番号区$225#必射精选$18","类型":"国产视频$163#国产精品$17#网曝黑料$232#主播大秀$236#国产自拍$48#抖阴视频$231#AV解说$233||综合传媒$227#麻豆合集$38#葫芦影业$109#天美传媒$111#果冻传媒$112#91制片厂$131#蜜桃传媒$113||日本有码$1#丝袜美腿$36#绝美少女$53#日本口爆$58#萝莉少女$234#强奸乱伦$6#日本巨乳$7#制服诱惑$9||精东影业$114#皇家华人$115#SWAG$116#兔子先生$120#大象传媒$125#糖心VLOG$128#星空传媒$130||日本无码$5#人妻熟女$10#日本调教$11#日本出轨$12#中文字幕$13#日本素人$16#巨乳无码$32#制服无码$35||波多野结衣$89#三上悠亚$87#葵司$90#桃乃木香奈$93#松本一香$103#篠田優$205#川上奈奈美$215||综合号$225#200GANA$142#259LUXU$146#300MIUM$143#300MAAN$149#MIAA$190#SSIS$191#STARS$186||空"
-   }
-   },
-  {
-  "key":"csp_XBPQ_AV星球",
-  "name":"🔞AV星球",
-  "type":3,"api":"csp_XBPQ",    
-  "jar": "./jar/xyqxbpq.jar",     
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1,
-  "ext":{"直接播放":"1","主页url":"https://avxqo.cc/","分类url":"https://avxqo.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"日韩精品$1#乱伦系列$35#日韩自拍$33#国产AV$2#国产性爱AV$23#探花约炮$36#国产AV精品$17#主播大秀$37#网曝吃瓜$38#国产传媒$39#偷拍偷窥$40#重口味$41#中文字幕$8#欧美大片$12#色情动漫$6"
-  }
-  },      
-    {
-      "key":"*老鸭2资源",
-      "name":"🔞老鸭资源",
-      "type":1,
-      "api":"https://lbapi9.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },    
-     {
+
       "key":"*白嫖资源",
       "name":"🔞白嫖资源",
       "type":0,
@@ -199,13 +53,7 @@
       "quickSearch": 1,
       "filterable": 0
        },
-       {"key":"乐播",
-       "name":"🔞乐播",
-       "type":1,
-       "api":"https://lbapi9.com/api.php/provide/vod/",
-       "searchable":1,
-       "quickSearch":1
-       } ,
+
        {
       "key":"*黄色仓库资源",
       "name":"🔞黄色仓库",
@@ -241,54 +89,8 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1
-     },	 
-   	{
-	  "key": "hipy_js_36直播[密]",
-	  "name": "🔞36直播",
-	  "type": 3,
-	  "api":"./drpy_libs/drpy2.min.js",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "order_num": 0,
-	  "ext": "./drpy_js/36直播[密].js"
-	  },
-	  {
-       "key":"py_AiDou/沐",
-       "name":"🔞Aidou",
-       "type":4,
-       "api":"https://py.doube.eu.org/spider?site=AiDou",
-       "searchable":1,
-       "quickSearch":0,
-       "filterable":0,
-       "changeable":0,
-       "style":{"type":"rect","ratio":1.5
-       }
-       },
-       {
-       "key":"php_madou/沐",
-       "name":"🔞麻豆",
-       "type":4,
-       "api":"https://py.doube.eu.org/spider?site=MaDou",
-       "searchable":1,
-       "quickSearch":0,
-       "filterable":0,
-       "changeable":0,
-       "style":{"type":"rect","ratio":1.5
-       }
-       }, 
-
-   { 
-      "key":"push_agent",
-      "name":"💻11.30更新",
-      "type":3,
-      "api":"csp_PushAgent",
-      "playerType":1,
-      "searchable":1,   
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"./alitoken.txt"      
-      }   
+     }
+  
   ],
  "parses":[      
   {
@@ -303,4 +105,5 @@
     }
 ]
 }
+
 
